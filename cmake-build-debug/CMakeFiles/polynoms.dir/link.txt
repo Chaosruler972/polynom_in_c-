@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp -g    CMakeFiles/polynoms.dir/main.cpp.o CMakeFiles/polynoms.dir/polynom.cpp.o  -o polynoms 

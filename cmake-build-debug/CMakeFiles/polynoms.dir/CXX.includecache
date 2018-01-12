@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chaosruler/Desktop/polynom_in_c-/main.cpp
+iostream
+-
+polynom.h
+/home/chaosruler/Desktop/polynom_in_c-/polynom.h
+
+/home/chaosruler/Desktop/polynom_in_c-/polynom.cpp
+polynom.h
+/home/chaosruler/Desktop/polynom_in_c-/polynom.h
+sstream
+-
+algorithm
+-
+
+/home/chaosruler/Desktop/polynom_in_c-/polynom.h
+vector
+-
+iostream
+-
+cmath
+-
+omp.h
+-
+

@@ -1,0 +1,6 @@
+/home/chaosruler/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/173.3727.114/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/chaosruler/Desktop/polynom_in_c-
+-- Found OpenMP_C: -fopenmp  
+-- Found OpenMP_CXX: -fopenmp  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/chaosruler/Desktop/polynom_in_c-/cmake-build-debug
